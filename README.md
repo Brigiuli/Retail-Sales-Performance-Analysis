@@ -18,11 +18,12 @@ El proyecto incluye varios enfoques de ciencia de datos:
 * Clasificación de la rentabilidad mediante regresión logística
 * Segmentación de productos mediante K-Means
 
-## Principales conclusiones
+## Principales insights
 
 * La categoría de Tecnología y la región Oeste generan las mayores ventas.
 * Las ventas y los descuentos se encuentran entre las variables más influyentes en la predicción de beneficios.
-* La eliminación de valores atípicos mejoró ligeramente el rendimiento del modelo de Random Forest (R²=0,77). El modelo de clasificación alcanzó un accuracy del 95 %.
+* La eliminación de valores atípicos mejoró ligeramente el rendimiento del modelo de Random Forest (R²=0,77).
+* El modelo de clasificación alcanzó un accuracy del 95 %.
 * La segmentación de productos reveló grupos con alta rentabilidad, baja rentabilidad y patrones atípicos.
   
 ## Herramientas Utilizadas
@@ -36,6 +37,3 @@ El proyecto incluye varios enfoques de ciencia de datos:
 ## Conjunto de Datos
 Conjunto de datos de ventas minoristas que contiene información sobre pedidos, productos, regiones, ventas y ganancias. 
 Soure: Kaggle
-
-## Insights
-El análisis destaca las tendencias clave de ventas, identifica los productos que generan pérdidas y proporciona información que puede respaldar las estrategias de precios, la evaluación de costos y la toma de decisiones empresariales.
